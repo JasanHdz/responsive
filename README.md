@@ -1,16 +1,11 @@
-# responsive
+# Responsive
 
-A new Flutter project.
+Este proyecto esta inspirando en la necesidad que tenemos los desarrolladores en crear interfaces que se puedan adaptar a cada dispositivo. En un proyecto estamos acostumbrados en interpretar el diseño exactamente igual para cierto dispositivo. Pero que ocurre cuando probamos nuestra app en otras pantallas. Es muy probable que nuestro diseño se rompa, porque nuestro diseño tiene medidas absolutas y no relativas. 
 
-## Getting Started
+Acá te presentamos ejemplos que pueden ayudarte a llevar tus diseños pensados de un Canvas en especial a todas las demás pantallas y que tus usuarios tengan la mejor experiencia que quiere dar a conocer tu App.
 
-This project is a starting point for a Flutter application.
+## Como Empezar
 
-A few resources to get you started if this is your first Flutter project:
+Este proyecto necesita tener instalado Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Puedes revisar la configuración e instalación de Flutter en su [documentación oficial](https://flutter.dev/docs)
